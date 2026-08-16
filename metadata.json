@@ -1,0 +1,6 @@
+{
+  "name": "NeuroScan AI – Brain Tumor Detection & Analysis System",
+  "description": "Hospital clinical portal with patient & staff registration, cranial MRI diagnostic assessment, specialist appointments, and health guides in a medical red theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
